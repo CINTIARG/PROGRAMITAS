@@ -1,0 +1,32 @@
+#include <stdio.h>
+#include <math.h>
+
+int main() {
+int angulo1 = 0;
+int angulo2 = 0;
+#declare angulo3 = 90;
+int lado1 = 0;
+int lado2 = 0;
+int lado3 = 0;
+printf("Debemos resolver un triangulo rectangulo \n Ingresa valor de un angulo:  ");
+scanf("%d",angulo2,);
+
+printf("Ingresa valor de el lado mas largo:");
+scanf("%d",lado3,);
+
+return 0;
+}
+
+#include <stdio.h>
+#include <stdlib.h>
+
+
+int main() {
+
+    char[100] nombre;
+    print("¿Cual es tu nombre completo?")
+    scanf("%s",nombre);
+    printf("Hola,bienvenido %s",nombre);
+    
+    return 0;
+}
